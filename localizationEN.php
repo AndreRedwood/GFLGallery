@@ -1,0 +1,32 @@
+<?php
+    $title = "GFL Gallery";
+    $details = "DETAILS";
+    $sortLabel = "SORT ORDER";
+    $sortSublabel0 = "sort by id";
+    $sortSublabel1 = "sort by name";
+    $sortSublabel2 = "sort by stars";
+    $sortSublabel3 = "sort by type";
+    $filterLabel = "FILTERS";
+    $backLabel = "Back";
+    $overviewLabel="Overview";
+    $galleryLabel="Gallery";
+    $quatesLabel="Quotes";
+    $skillsLabel="Skills";
+    $triviaLabel="Trivia";
+    $fullnameLabel="Full Name";
+    $countryLabel="Country of origin";
+    $voiceActorLabel="Voice actor";
+    $artistLabel="Artist";
+    $galleryLabel0="Main sprites";
+    $galleryLabel1="Costumes";
+    $galleryLabel2="Official artworks";
+    $galleryLabel3="Unofficial artkworks";
+    $enlargeLabel="Enlarge";
+    $soundsLabel0="General";
+    $soundsLabel1="Combat";
+    $soundsLabel2="Event";
+    $soundsLabel3="Misc.";
+    $dialogueLabel="Dialogue";
+    $jpLabel="Japanese | 日本語";
+    $translationLabel="English";
+?>

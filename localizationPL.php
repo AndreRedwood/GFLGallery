@@ -1,0 +1,32 @@
+<?php
+    $title = "GFL galeria";
+    $details = "DETALE";
+    $sortLabel = "SORTOWANIE";
+    $sortSublabel0 = "sortuj wegług id";
+    $sortSublabel1 = "sortuj wegług imienia";
+    $sortSublabel2 = "sortuj wegług gwiazdek";
+    $sortSublabel3 = "sortuj wegług typu";
+    $filterLabel = "FILTRY";
+    $backLabel = "Powrót";
+    $overviewLabel="Podsumowanie";
+    $galleryLabel="Galeria";
+    $quatesLabel="Cytaty";
+    $skillsLabel="Umiejętności";
+    $triviaLabel="Ciekawostki";
+    $fullnameLabel="Pełne Imię";
+    $countryLabel="Kraj pochodzenia";
+    $voiceActorLabel="Aktor głosowy";
+    $artistLabel="Artysta";
+    $galleryLabel0="Główne grafiki";
+    $galleryLabel1="Kostiumy";
+    $galleryLabel2="Oficjalne grafiki";
+    $galleryLabel3="Nieoficjalne ilustracje";
+    $enlargeLabel="Powiększ";
+    $soundsLabel0="Ogólne";
+    $soundsLabel1="Bojowe";
+    $soundsLabel2="Wydarzenia";
+    $soundsLabel3="Inne";
+    $dialogueLabel="Dialog";
+    $jpLabel="Japoński | 日本語";
+    $translationLabel="Polski";
+?>

@@ -1,0 +1,17 @@
+Nagant_Revolver_Acqusition-こんな年寄りを好みとは、お主は相当な変わり者じゃな。-You're quite the odd one for having tastes in someone as old as I, aren't you?;
+Nagant_Revolver_Secretary1-わしの身長がそんなに気になるか、デリケートなことは聞かないでほしいの!-Are you curious about my height that much? Don't ask delicate stuff like that.;
+Nagant_Revolver_Secretary2-わしの頭を撫でるんじゃない!子供扱いされるのは…心外じゃ!-Don't pat my head so casually, how dare you to treat me like a child!;
+Nagant_Revolver_Secretary3-牛乳を飲めば身長が伸びるというのは本当か。え、わしを騙すでないぞ!-I'll get taller if I drink milk, huh.......You'd better not be lying.;
+Nagant_Revolver_OATH-ほう、指揮官、お主にそんな趣味があったとはな？うふ、大丈夫なのかのう？とにかく、わしに依存はないが。まあ、良い。一緒に色々…健闘してみようぞ。-Eh? Sir, I never expect you to have such a taste. Will you be alright? But I'm inexperienced in this field as well... Let's take it slow. We could learn together.;
+Nagant_Revolver_Greeting-戻ってきたか？お帰り！-You are back ? Welcome back!;
+Nagant_Revolver_Production-新しい若い娘が来たようじゃ。-A new young lady is there.;
+Nagant_Revolver_Join-こんな年寄りに頼るなんて...んふ、人使い荒いな！-Relying on an elder like this...!;
+
+G_1_rec
+G_3_rec
+G_4_rec
+G_10_rec
+C_1_rec
+E_2_rec
+E_5_rec
+M_4_rec
